@@ -2,6 +2,10 @@
 
 I'm a **Software Engineer and Game Developer** with experience in full-stack development, backend engineering, and gameplay programming. I enjoy developing building software applications, developing interactive experiences, and exploring new technologies.
 
+### 💼 What I'm Currently Looking For 💼
+
+I'm a Software Engineering graduate (May 2025) currently seeking entry-level opportunities in **Software Engineering, Backend/Frontend/Fullstack Development, or Game Development**. I'm eager to contribute my existing skills to a team while continuing to learn, gain professional experience, and grow as a engineer/developer.
+
 ### 💻 Software Engineering 💻
 I have experience developing full-stack applications and RESTful APIs using **Java, Spring Boot, Python, Flask, Angular, TypeScript, and PostgreSQL**. My experience includes backend development, frontend-backend integration, authentication systems, database management, API development, testing, and debugging.
 
